@@ -1,84 +1,86 @@
-<!-- README for Shelly Chahar (shellyco-code) -->
+<!-- 🌷 README for Shelly Chahar (shellyco-code) 🌷 -->
 
-<h1 align="center">✨ Hey there, I'm Shelly Chahar 👋</h1>
+<h1 align="center">🌸 Hey there, I'm <span style="color:#FFB6C1;">Shelly Chahar</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shelly+Chahar!;Aspiring+Developer+from+Polaris+School+of+Technology;Passionate+about+Coding+%26+Exploring+New+Tech;Always+Learning+%7C+Building+%7C+Growing+🌱" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shelly+Chahar!;👩‍💻+Aspiring+Developer+from+Polaris+School+of+Technology;💖+Passionate+about+Coding+and+Exploring+New+Tech;Always+Learning+%7C+Building+%7C+Growing+🌷" alt="Typing SVG">
 </p>
 
 ---
 
-### 🌸 About Me
-> “Learning, building, and growing every day.”  
+### 💕 About Me
+> “Learning, building, and growing every day — with a touch of pink magic 💫”
 
 - 🎓 **Student at Polaris School of Technology**  
-- 💻 I’m passionate about **coding, AI, and building useful tools**  
-- 🌱 Currently exploring **Python, HTML, and Web Development**  
-- ⚡ Fun fact: I love turning ideas into creative digital projects!
+- 💻 Passionate about **coding, AI, and building creative projects**  
+- 🌱 Exploring **Python, HTML, and Web Development**  
+- ⚡ *Fun fact:* I love blending design & logic — aesthetics matter 💗  
 
 ---
 
-### 🧠 Tech Stack
+### 🎀 Tech Stack
 
-| Languages | Tools & Tech | Interests |
-|------------|--------------|------------|
-| 🐍 Python | 🧩 Git & GitHub | 💬 AI & Chatbots |
+| 💻 Languages | 🧩 Tools & Tech | 🌈 Interests |
+|--------------|----------------|--------------|
+| 🐍 Python | 🌸 Git & GitHub | 💬 AI & Chatbots |
 | 🌐 HTML | 🎨 Tailwind CSS | 🤖 Machine Learning |
 | ⚙️ JavaScript (Learning) | 🧠 VS Code | 🧩 Web Apps |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-FEC5E5?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-FAC8D1?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/GitHub-F9D5E5?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/VSCode-FCD5CE?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+</p>
 
 ---
 
 ### 💡 My Current Focus
 - 🚀 Strengthening my **Python & Web Development** skills  
-- 🧩 Building small projects every week to grow consistency  
-- 🌍 Contributing to open-source soon!  
+- 🌈 Creating **small creative projects** every week to stay consistent  
+- 🤝 Preparing to **contribute to open-source soon!**  
 
 ---
 
-### 📊 GitHub Stats
+### 🌸 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shellyco-code&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shellyco-code&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=shellyco-code&show_icons=true&title_color=ff9fd1&icon_color=ff91af&text_color=ffdbe5&bg_color=15141b&border_color=ff91af&theme=rose_pine" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shellyco-code&theme=rose_pine&border=ff91af&ring=ff9fd1&fire=ff91af&currStreakLabel=ffdbe5" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellyco-code&layout=compact&theme=radical" height="165">
-</p>
-
----
-
-### 🪄 Connect with Me
-<p align="center">
-  <a href="mailto:shellychahar57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shellychahar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/shellyco-code"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellyco-code&layout=compact&title_color=ff9fd1&text_color=ffdbe5&bg_color=15141b&border_color=ff91af&theme=rose_pine" height="165">
 </p>
 
 ---
 
-### 💬 Quote I Live By
-> *"Code is like art — make it simple, beautiful, and useful."*
+### 💌 Connect with Me
+<p align="center">
+  <a href="mailto:shellychahar57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shellychahar">
+    <img src="https://img.shields.io/badge/LinkedIn-FEC5E5?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+  </a>
+  <a href="https://github.com/shellyco-code">
+    <img src="https://img.shields.io/badge/GitHub-F9D5E5?style=for-the-badge&logo=github&logoColor=181717" />
+  </a>
+</p>
+
+---
+
+### 🌷 Quote I Live By
+> *"Code is like art — make it simple, beautiful, and useful."* 💫  
 
 ---
 
 <p align="center">
-  <img src="https://instagram.fbom9-1.fna.fbcdn.net/v/t51.2885-19/536846293_17852787642518230_6817112099462471320_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbom9-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFgsGlDuo0h0o-WvG-sML040yh-DV59kI7mlND7WKIYdudpJVnxWFQxp0uNjhsWrzA&_nc_ohc=b_coWtft2r0Q7kNvwEwMIrq&_nc_gid=2f-PfLrThLFzNYYJhN9Y6A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Affil1QIDPG6uuslXaN8zZKYHIm2yNGTivAn-6RBGLXutw&oe=69090AD0&_nc_sid=8b3546" width="400" alt="coding animation">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="coding girl gif">
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/shellyco-code">Shelly Chahar</a> with 💜</p>
-## Hi there 👋
-
-<!--
-**shellyco-code/shellyco-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⭐️ From <a href="https://github.com/shellyco-code">Shelly Chahar</a> with 💖
+</p>
