@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEJYBujtprG0w/profile-displayphoto-scale_400_400/B4EZhVab7gHgAk-/0/1753779653275?e=1763596800&v=beta&t=MK_2Axw4virlB1COUyZqH9tqZGevrFrj_Sc8NJb7s8g" width="400" alt="coding animation">
+  <img src="https://instagram.fbom9-1.fna.fbcdn.net/v/t51.2885-19/536846293_17852787642518230_6817112099462471320_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbom9-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFgsGlDuo0h0o-WvG-sML040yh-DV59kI7mlND7WKIYdudpJVnxWFQxp0uNjhsWrzA&_nc_ohc=b_coWtft2r0Q7kNvwEwMIrq&_nc_gid=2f-PfLrThLFzNYYJhN9Y6A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Affil1QIDPG6uuslXaN8zZKYHIm2yNGTivAn-6RBGLXutw&oe=69090AD0&_nc_sid=8b3546" width="400" alt="coding animation">
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/shellyco-code">Shelly Chahar</a> with 💜</p>
