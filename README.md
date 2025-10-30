@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="coding animation">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEJYBujtprG0w/profile-displayphoto-scale_400_400/B4EZhVab7gHgAk-/0/1753779653275?e=1763596800&v=beta&t=MK_2Axw4virlB1COUyZqH9tqZGevrFrj_Sc8NJb7s8g" width="400" alt="coding animation">
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/shellyco-code">Shelly Chahar</a> with 💜</p>
