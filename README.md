@@ -1,108 +1,138 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║              SHELLY CHAHAR — DEVELOPER                   ║
-║         Full Stack · AI Integration · Web3               ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:7F77DD,100:0f0f0f&height=200&section=header&text=SHELLY%20CHAHAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Web3&descAlignY=55&descColor=AFA9EC" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/shellychahar.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://shellychahar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shellychahar)
-[![Email](https://img.shields.io/badge/shellychahar57@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shellychahar57@gmail.com)
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Remote_Internships-97C459?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AFA9EC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-powered+products;Exploring+Web3+%26+Blockchain;Open+to+Remote+Internships)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shellychahar.vercel.app-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://shellychahar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shellychahar)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shellychahar57@gmail.com)
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_INTERNSHIPS-97C459?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shellyco-code&color=7F77DD&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ```bash
-$ whoami
+┌─[shellyco-code@github]─[~]
+└──╼ $ cat whoami.json
 ```
 
 ```json
 {
-  "name"      : "Shelly Chahar",
-  "role"      : "Full Stack Developer",
-  "location"  : "India",
-  "focus"     : ["Web2", "Web3", "AI-powered products"],
-  "building"  : "Full-stack apps with Python backend + React frontend",
-  "learning"  : ["DSA", "Docker", "Solidity", "Agentic AI"],
-  "open_to"   : "Remote internship opportunities"
+  "name"       : "Shelly Chahar",
+  "role"       : "Full Stack Developer",
+  "location"   : "India 🇮🇳",
+  "focus"      : ["Web2", "Web3", "AI-powered products"],
+  "building"   : "Full-stack apps → Python backend + React frontend",
+  "exploring"  : ["Solidity", "Smart Contracts", "Agentic AI", "Docker"],
+  "open_source": true,
+  "available"  : "Remote internship opportunities → NOW"
 }
 ```
 
----
-
-```bash
-$ cat tech_stack.json
-```
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database & Cloud**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
-
-**AI & Tools**
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ```bash
-$ ls projects/
+┌─[shellyco-code@github]─[~]
+└──╼ $ cat tech_stack.sh
 ```
+
+<div align="center">
+
+### ⬡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⬡ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### ⬡ Database & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⬡ Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+
+### ⬡ AI & Tools
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+```bash
+┌─[shellyco-code@github]─[~]
+└──╼ $ ls -la projects/
+```
+
+<div align="center">
 
 ### Mentora — AI Career Platform
-> `React` `Node.js` `Gemini AI` `Three.js` `Firebase`
 
-Full-stack career development platform with personalized resume analysis, dynamic skill roadmaps, and interactive assessments powered by Google Gemini AI. Features immersive 3D UI built with Three.js and real-time progress tracking via Firebase.
+> `React` · `Node.js` · `Gemini AI` · `Three.js` · `Firebase`
 
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mentora-liard-omega.vercel.app)
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shellyco-code/Mentora)
+Full-stack career development platform with personalized resume analysis, dynamic skill roadmaps, and interactive assessments powered by Google Gemini AI. Immersive 3D UI built with Three.js. Real-time progress tracking via Firebase.
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mentora-liard-omega.vercel.app)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shellyco-code/Mentora)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ```bash
-$ cat current_missions.log
+┌─[shellyco-code@github]─[~]
+└──╼ $ tail -f missions.log
 ```
 
 ```
-[ACTIVE]  Building full-stack project — Python (FastAPI) + React
-[ACTIVE]  DSA practice — arrays, hashmaps, trees
-[ACTIVE]  Exploring Web3 — Solidity + smart contracts
-[QUEUE]   Docker · Agentic AI
+[■■■■■░░░░░]  Building → Full-stack project (Python + React)
+[■■■░░░░░░░]  Learning → DSA fundamentals
+[■■░░░░░░░░]  Exploring → Solidity & Smart Contracts
+[■■░░░░░░░░]  Contributing → Open Source
+[■░░░░░░░░░]  Learning → Docker & Agentic AI
 ```
 
 ---
 
 <div align="center">
 
-```
-> Always building. Always shipping.
-```
+<img src="https://github-readme-stats.vercel.app/api?username=shellyco-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=AFA9EC&icon_color=7F77DD&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellyco-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=AFA9EC&text_color=ffffff" height="165"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shellyco-code&color=7F77DD&style=flat-square&label=PROFILE+VIEWS)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shellyco-code&bg_color=0d1117&color=AFA9EC&line=7F77DD&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:7F77DD,100:0f0f0f&height=120&section=footer" width="100%"/>
+
 
