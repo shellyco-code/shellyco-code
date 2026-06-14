@@ -90,7 +90,6 @@ $ cat current_missions.log
 ```
 [ACTIVE]  Building full-stack project — Python (FastAPI) + React
 [ACTIVE]  DSA practice — arrays, hashmaps, trees
-[ACTIVE]  LFX Mentorship Term 3 — first open source contribution
 [ACTIVE]  Exploring Web3 — Solidity + smart contracts
 [QUEUE]   Docker · Agentic AI
 ```
